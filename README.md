@@ -13,7 +13,7 @@
     [View Repo](https://github.com/<your-username>/latex-to-md)
 
 - **Metal Slug 6 (Unity3D)** – Multi-level game with power-ups, multiplayer, and boss mechanics.  
-    [View Repo](https://github.com/<your-username>/metal-slug6)
+    [View Repo]([https://github.com/<your-username>/metal-slug6](https://github.com/Proms32/metal-slug-6-game))
 
 - **Mini Web Browser (Qt)** – Custom HTML parser, DOM builder, and rendering engine with multi-process & multi-threaded tabs.  
     [View Repo](https://github.com/<your-username>/mini-browser)
